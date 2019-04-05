@@ -1,0 +1,13 @@
+# Isai Lopez
+# ilopezro
+# Dustin Adams- CMPS12B
+# Lab 7 - BST in Java
+
+Table of Contents
+1. DictionaryInterface.java
+2. DuplicateKeyException.java
+3. KeyNotFoundException.java
+4. DictionaryClient.java
+5. Dictionary.java
+6. Makefile
+7. README

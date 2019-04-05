@@ -1,0 +1,16 @@
+# Isai Lopez
+# Dustin Adams
+# CMPS 12B
+# Program 3 
+# Dictionary ADT
+
+1. README 
+2. Dictionary.java
+3. DictionaryClient.java
+4. DictionaryTest.java
+5. DuplicateKeyException.java
+6. KeyNotFoundException.java
+7. DictionaryInterface.java
+8. Makefile
+
+# Linked List Used: singly linked with head reference
